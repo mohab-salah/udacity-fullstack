@@ -24,6 +24,7 @@
     "@types/bcryptjs": "2.4.2",
     "@types/express-serve-static-core": "^4.17.29",
     "@types/jsonwebtoken": "^8.3.2",
+    "@types/serve-static": "^1.13.10",
     "aws-sdk": "^2.429.0",
     "bcrypt": "^5.0.1",
     "bcryptjs": "2.4.3",
