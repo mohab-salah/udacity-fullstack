@@ -40,7 +40,3 @@ jobs:
           name: Back-End Build
           command: |
             npm run backend:build      
-      - run:
-          name: Backend Deploy
-          command: |
-            npm run backend:deploy
