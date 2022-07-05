@@ -74,3 +74,6 @@ The e2e tests are using Protractor and Jasmine.
 http://random-udicity456755.s3-website-us-east-1.amazonaws.com -----> Front-End
 
 http://aws-udicity-app-dev.eba-axbpfmtw.us-east-1.elasticbeanstalk.com ---> Back-end
+
+## Circleci
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/mohab-salah/udacity-fullstack/79/workflows/a1f236b5-513f-452b-89f8-9afbdcb3ab62/jobs/83)
